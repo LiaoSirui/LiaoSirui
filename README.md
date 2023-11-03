@@ -4,11 +4,6 @@
 
 blog in [https://github.com/LiaoSirui/blog.liaosirui.com](https://github.com/LiaoSirui/blog.liaosirui.com)
 
-### My GitHub
-
-<span><img src="https://github-readme-stats.vercel.app/api?username=LiaoSirui&show_icons=true&theme=react&hide_border=false" alt="LiaoSirui" width=49.8% /></span>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=LiaoSirui&theme=react" alt="LiaoSirui" width=49.8% /></span>
-
 ### Code & Skills
 
 ![all-skills](https://skillicons.dev/icons?i=linux,go,py,bash,ansible,kubernetes,docker,prometheus,grafana)
@@ -82,3 +77,8 @@ blog in [https://github.com/LiaoSirui/blog.liaosirui.com](https://github.com/Lia
 
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=0052CC&message=Trello&logo=Trello)](https://trello.com/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=0052CC&message=Jira&logo=Jira)](https://www.atlassian.com/software/jira/work-management)
+
+### My GitHub Contribution
+
+<span><img src="https://github-readme-stats.vercel.app/api?username=LiaoSirui&show_icons=true&theme=react&hide_border=false" alt="LiaoSirui" width=49.8% /></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=LiaoSirui&theme=react" alt="LiaoSirui" width=49.8% /></span>
