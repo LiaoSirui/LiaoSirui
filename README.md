@@ -13,15 +13,15 @@ blog in [https://github.com/LiaoSirui/blog.liaosirui.com](https://github.com/Lia
 
 ![all-skills](https://skillicons.dev/icons?i=linux,go,py,bash,ansible,kubernetes,docker,prometheus,grafana)
 
-[![linux](https://img.shields.io/badge/-Linux-Fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
-[![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=flat-square&logo=rockylinux&logoColor=ffffff)](https://rockylinux.org/)
-[![Centos](https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org/)
-[![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=flat-square&logo=alpine-linux&logoColor=ffffff)](https://www.alpinelinux.org/)
-[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=A81D33&message=Debian&logo=debian)](https://www.debian.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FCC624&message=Linux&logo=Linux)](https://www.linux.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=10B981&message=Rocky+Linux&logo=Rocky+Linux)](https://rockylinux.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=262577&message=CentOS&logo=CentOS)](https://rockylinux.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=0D597F&message=Alpine+Linux&logo=Alpine+Linux)](https://www.alpinelinux.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=A81D33&message=Debian&logo=Debian)](https://www.debian.org/)
 
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=00ADD8&message=Golang&logo=Go)](https://golang.org/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=3670A0&message=Python&logo=Python)](https://www.python.org/)
-[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=121011&message=Shell%20Scripts&logo=GNU-Bash)](https://www.gnu.org/software/bash/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=121011&message=Shell+Scripts&logo=GNU-Bash)](https://www.gnu.org/software/bash/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=000000&message=Markdown&logo=Markdown)](https://www.markdownguide.org/)
 
 [![-](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
@@ -31,6 +31,12 @@ blog in [https://github.com/LiaoSirui/blog.liaosirui.com](https://github.com/Lia
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=575757&message=Containerd&logo=Containerd)](https://containerd.io/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=0F1689&message=Helm&logo=Helm)](https://helm.sh/)
 
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=000000&message=Calico&logo=Calico)](https://www.tigera.io/project-calico/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=F8C517&message=Cilium&logo=Cilium)](https://cilium.io/)
+
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=000000&message=BeeGFS&logo=BeeGFS)](https://www.beegfs.io/c/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=EF5C55&message=Ceph&logo=Ceph)](https://ceph.io/en/)
+
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=E6522C&message=Prometheus&logo=Prometheus)](https://prometheus.io/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=F46800&message=Grafana&logo=Grafana)](https://grafana.com/)
 
@@ -38,34 +44,41 @@ blog in [https://github.com/LiaoSirui/blog.liaosirui.com](https://github.com/Lia
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=005571&message=Kibana&logo=Kibana)](https://www.elastic.co/cn/kibana)
 
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=000000&message=OpenTelemetry&logo=OpenTelemetry)](https://opentelemetry.io/)
-[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=000000&message=Jaeger&logo=Jaeger)](https://www.jaegertracing.io/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=66CFE3&message=Jaeger&logo=Jaeger)](https://www.jaegertracing.io/)
 
-[![GithubActions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)](https://github.com/features/actions)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=466BB0&message=Istio&logo=Istio)](https://istio.io/)
 
-[![Harbor](https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=harbor&logoColor=ffffff)](https://goharbor.io/)
-[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=000000&message=Nexus&logo=Nexus)](https://www.sonatype.com/products/sonatype-nexus-repository)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FC6D26&message=GitLab+Runner&logo=GitLab)](https://docs.gitlab.com/runner/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=2088FF&message=GitHub+Actions&logo=GitHub+Actions)](https://github.com/features/actions)
 
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=ffffff)](https://www.sqlite.org/index.html)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=ffffff)](https://redis.com/)
-[![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=ffffff)](https://www.rabbitmq.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=60B932&message=Harbor&logo=Harbor)](https://goharbor.io/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=1B1C30&message=Sonatype+Nexus&logo=Sonatype)](https://www.sonatype.com/products/sonatype-nexus-repository)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=40BE46&message=JFrog+Artifactory&logo=JFrog)](https://www.sonatype.com/products/sonatype-nexus-repository)
 
-[![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=4479A1&message=MySQL&logo=MySQL)](https://www.mysql.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=316192&message=PostgreSQL&logo=PostgreSQL)](https://www.postgresql.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=003B57&message=SQLite&logo=SQLite)](https://www.sqlite.org/index.html)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=47A248&message=MongoDB&logo=MongoDB)](https://www.mongodb.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=DC382D&message=Redis&logo=Redis)](https://redis.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FF6600&message=RabbitMQ&logo=RabbitMQ)](https://www.rabbitmq.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=231F20&message=Apache+Kafka&logo=Apache+Kafka)](https://kafka.apache.org/)
 
-[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=ffffff)](https://airflow.apache.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=009639&message=NGINX&logo=NGINX)](https://nginx.org/)
 
-[![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![JupyterNotebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=ffffff)](https://jupyterlab.readthedocs.io/en/latest/)
-[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)
-[![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=ffffff)](https://gohugo.io/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)](https://www.postman.com/)
-[![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=ffffff)](https://swagger.io/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=017CEE&message=Apache+Airflow&logo=Apache+Airflow)](https://airflow.apache.org/)
 
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=ffffff)](https://about.gitlab.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=007ACC&message=Visual+Studio+Code&logo=Visual+Studio+Code)](https://code.visualstudio.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=F37626&message=Jupyter&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/latest/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=019733&message=Vim&logo=Vim)](https://www.vim.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FF4088&message=Hugo&logo=Hugo)](https://gohugo.io/)
 
-[![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=ffffff)](https://trello.com/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=ffffff)](https://www.atlassian.com/software/jira/work-management)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FF6C37&message=Postman&logo=Postman)](https://www.postman.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=85EA2D&message=Swagger&logo=Swagger)](https://swagger.io/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=D22128&message=Apache+JMeter&logo=Apache+JMeter)](https://jmeter.apache.org/)
+
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=F05032&message=Git&logo=Git)](https://git-scm.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=181717&message=GitHub&logo=GitHub)](https://github.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FC6D26&message=GitLab&logo=GitLab)](https://about.gitlab.com/)
+
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=0052CC&message=Trello&logo=Trello)](https://trello.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=0052CC&message=Jira&logo=Jira)](https://www.atlassian.com/software/jira/work-management)
